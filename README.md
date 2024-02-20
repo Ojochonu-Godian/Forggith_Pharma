@@ -9,6 +9,7 @@ In their efforts to maximise growth, Forggith works with a team of Sales and Mar
 
 ## Data Source
 The data was sourced from [Foresight BI and Analytics Internship](https://training.foresightbi.com.ng/courses/take/power-bi-developer-internship/texts/45012192-introduction-to-the-program)
+
 Also found [HERE](https://github.com/Ojochonu-Godian/Forggith_Pharma/blob/main/PharmDataset-230517-152700(1).xlsx)
 
 ## Exploratory Data Analysis
