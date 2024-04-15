@@ -12,6 +12,15 @@ The data was sourced from [Foresight BI and Analytics Internship](https://traini
 
 Also found [HERE](https://github.com/Ojochonu-Godian/Forggith_Pharma/blob/main/PharmDataset-230517-152700(1).xlsx)
 
+## Understanding the Dataset
+The dataset consist of Sales Data and Target Data. The sales data contains sub-datasets namely; Sales Data (2022 - 2025), Products, Location, Channel, Sub-channel, and Employees.
+## Data Modelling
+By utilizing Microsoft Power BI's modelling capability a star-schema data model was implemenented in order to optimize interactions between the different tables. A calender table for time series analysis was also created and connected toi the sales data as shown below.
+![DataModel](https://github.com/Ojochonu-Godian/Forggith_Pharma/assets/104824781/9bcfb132-613d-4c4a-895c-bd40e915a06f)
+
+
+
+
 ## Exploratory Data Analysis
 In this project I would like to give data driven answers to the following business questions;
 1. What is the total sales amount for each customer?
