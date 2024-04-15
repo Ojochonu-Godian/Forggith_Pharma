@@ -15,9 +15,12 @@ Also found [HERE](https://github.com/Ojochonu-Godian/Forggith_Pharma/blob/main/P
 ## Understanding the Dataset
 The dataset consist of Sales Data and Target Data. The sales data contains sub-datasets namely; Sales Data (2022 - 2025), Products, Location, Channel, Sub-channel, and Employees.
 ## Data Modelling
-By utilizing Microsoft Power BI's modelling capability a star-schema data model was implemenented in order to optimize interactions between the different tables. A calender table for time series analysis was also created and connected toi the sales data as shown below.
+By utilizing Microsoft Power BI's modelling capability, a star-schema data model was implemenented in order to optimize interactions between the different tables. A calender table for time series analysis was also created and connected to the sales data as shown below.
 ![DataModel](https://github.com/Ojochonu-Godian/Forggith_Pharma/assets/104824781/9bcfb132-613d-4c4a-895c-bd40e915a06f)
 
+## Data Transformation and Key Performance Indicators
+
+The Key Performance Indicators for Sales Performance are;
 
 
 
