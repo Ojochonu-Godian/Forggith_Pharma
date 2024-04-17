@@ -20,7 +20,28 @@ By utilizing Microsoft Power BI's modelling capability, a star-schema data model
 
 ## Data Transformation and Key Performance Indicators
 
-The Key Performance Indicators for Sales Performance are;
+***The Key Performance Indicators for Sales Performance are;***
+* Total  Revenue
+* Total Revenue Year To Date (YTD)
+* Total Revenue Previous Year YTD
+* Total Revenue Same Period Last Year(SPLY)
+* Total Target
+* Total TargetYTD
+* Actual Revenue Performance YTD vs Target YTD
+* Revenue Month on Month Percentage Change
+* Revenue Distribution by Location
+* Revenue by Channel
+* Revenue by Product Class
+
+***The Key Performance Indicators for Marketing Performance Performance are;***
+* Revenue Achieved vs Revenue Target
+* Volume Achieved vs Volume Target
+* Actual Revenue by Sales Representative
+* Target Revenue Achievement% by Sales Representative
+* Actual Volume by Sales Representative
+* Target Volume Achievement by Sales Representative
+* Actual Revenue Achievement by Sales Team
+* Revenue and Volume Achievement by Product.
 
 
 
