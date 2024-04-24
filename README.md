@@ -16,6 +16,7 @@ Also found [HERE](https://github.com/Ojochonu-Godian/Forggith_Pharma/blob/main/P
 The dataset consist of Sales Data and Target Data. The sales data contains sub-datasets namely; Sales Data (2022 - 2025), Products, Location, Channel, Sub-channel, and Employees.
 ## Data Modelling
 By utilizing Microsoft Power BI's modelling capability, a star-schema data model was implemenented in order to optimize interactions between the different tables. A calender table for time series analysis was also created and connected to the sales data as shown below.
+
 ![DataModel](https://github.com/Ojochonu-Godian/Forggith_Pharma/assets/104824781/9bcfb132-613d-4c4a-895c-bd40e915a06f)
 
 ## Data Transformation and Key Performance Indicators
@@ -45,10 +46,15 @@ By utilizing Microsoft Power BI's modelling capability, a star-schema data model
 
 
 
-## Exploratory Data Analysis
+## Exploratory Data Analysis and Data Visualization
+Displayed in the dashboards are visual representations of the key performance indicators.
+![Sales Performance Overview](https://github.com/Ojochonu-Godian/Forggith_Pharma/assets/104824781/2b5399f4-3669-4cda-bc53-b9be2b5b893a)
+
+![Marketing Perdormance Overview](https://github.com/Ojochonu-Godian/Forggith_Pharma/assets/104824781/00258559-19c4-41ef-9e50-147e3f8cce38)
+
+
 In this project I would like to give data driven answers to the following business questions;
-1. What is the total sales amount for each customer?
-2. Which customer segment generates the highest sales revenue?
+1. Which customer segment generates the highest sales revenue?
 3. How does sales performance vary across different geographical regions?
 4. What is the average quantity of products ordered per customer?
 5. Which city has the highest number of orders?
