@@ -7,7 +7,7 @@ Forggith provided a template for their distributors to capture records of their 
 
 In their efforts to maximise growth, Forggith works with a team of Sales and Marketing pros who ensure retailers are able to get their products through the distributors. That is, Forggith does not sell directly to retailers or end-users, they sell to Distributors. But they maintain interaction with retailers, through their Sales and Marketing pros.
 
-###[View Report](https://app.powerbi.com/view?r=eyJrIjoiMjVlNzFiZDUtMjQ3NC00YTA1LTk4ZDAtY2EzZDZiYjU2ZGQzIiwidCI6IjBkNDE2ZjQ5LTE2MzItNDcwMS1iN2Q4LWIzMjY1OTk3YmY5MyJ9)
+[View Report](https://app.powerbi.com/view?r=eyJrIjoiMjVlNzFiZDUtMjQ3NC00YTA1LTk4ZDAtY2EzZDZiYjU2ZGQzIiwidCI6IjBkNDE2ZjQ5LTE2MzItNDcwMS1iN2Q4LWIzMjY1OTk3YmY5MyJ9)
 ## Data Source
 The data was sourced from [Foresight BI and Analytics Internship](https://training.foresightbi.com.ng/courses/take/power-bi-developer-internship/texts/45012192-introduction-to-the-program)
 
